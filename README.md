@@ -40,7 +40,7 @@ The website specifications includes the following:
 3. Header (with a logo of your business) `(5 pts)`
 4. Footer (with copyright text) `(5 pts)`
 
-
+##swag
 ![alt text](./images/product_grid.jpg)
 
 
